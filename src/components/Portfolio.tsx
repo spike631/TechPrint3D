@@ -42,30 +42,30 @@ const Portfolio: React.FC = () => {
     },
     {
       id: 4,
-      title: 'Architect Model',
+      title: '3D Model',
       category: 'decorative',
-      material: 'PLA',
-      color: 'Wit',
-      description: 'Gedetailleerd architectuur model',
-      image: 'https://images.pexels.com/photos/6953888/pexels-photo-6953888.jpeg?auto=compress&cs=tinysrgb&w=400'
+      material: 'PLA+',
+      color: 'Chrome',
+      description: 'Terminator 3D Model',
+      image: '/Terminator_BlackBG.jpg'
     },
     {
       id: 5,
-      title: 'Functionele Houder',
-      category: 'technical',
-      material: 'PETG',
-      color: 'Transparant',
-      description: 'Custom houder voor specifieke toepassing',
-      image: 'https://images.pexels.com/photos/6953900/pexels-photo-6953900.jpeg?auto=compress&cs=tinysrgb&w=400'
+      title: 'Teelicht',
+      category: 'decorative',
+      material: 'PLA+',
+      color: 'Oranje',
+      description: 'Halloween teelicht',
+      image: '/Halloween_Teelicht.jpg'
     },
     {
       id: 6,
-      title: 'Concept Model',
+      title: 'Motorsteun',
       category: 'prototypes',
-      material: 'PLA',
-      color: 'Blauw',
-      description: 'Vroeg stadium prototype voor design verificatie',
-      image: 'https://images.pexels.com/photos/6953883/pexels-photo-6953883.jpeg?auto=compress&cs=tinysrgb&w=400'
+      material: 'PLA+',
+      color: 'Rood',
+      description: 'Simracing Rumblemotorsteun',
+      image: '/Simracing_RumbleMotor_Houder.jpg'
     }
   ];
 
