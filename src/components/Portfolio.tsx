@@ -20,25 +20,25 @@ const Portfolio: React.FC = () => {
       material: 'PLA+',
       color: 'Wit',
       description: 'Wandhouder voor Deco M50',
-      image: '/public/Deco_Houder.jpg'
+      image: '/Deco_Houder.jpg'
     },
     {
       id: 2,
-      title: 'Fitbit Smartwatch Stand',
+      title: 'Smartwatch Stand',
       category: 'decorative',
       material: 'PLA',
       color: 'Sparkle Blue Crystal',
       description: 'Houder voor Fitbit Smartwatch',
-      image: '/public/Fitbit_Stand.jpg'
+      image: '/Fitbit_Stand.jpg'
     },
     {
       id: 3,
-      title: 'Prototype Behuizing',
-      category: 'prototypes',
-      material: 'ABS',
-      color: 'Grijs',
-      description: 'Elektronische behuizing voor product ontwikkeling',
-      image: 'https://images.pexels.com/photos/6953893/pexels-photo-6953893.jpeg?auto=compress&cs=tinysrgb&w=400'
+      title: 'Smartwatch Stand',
+      category: 'decorative',
+      material: 'PLA+',
+      color: 'Sparkle Blue Crystal',
+      description: 'Houder voor OnePlus Smartwatch',
+      image: '/OnePlus_Stand.jpg'
     },
     {
       id: 4,
